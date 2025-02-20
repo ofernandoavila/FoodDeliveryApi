@@ -1,0 +1,6 @@
+@Ofernandoavila.FoodDelivery.Api_HostAddress = http://localhost:5101
+
+GET {{Ofernandoavila.FoodDelivery.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

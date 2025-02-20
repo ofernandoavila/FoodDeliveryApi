@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-API", "0-API", "{0D71F9E0-DCA4-42A4-88F7-10C63FC694C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ofernandoavila.FoodDelivery.Api", "src\Ofernandoavila.FoodDelivery.Api\Ofernandoavila.FoodDelivery.Api.csproj", "{9CE68EC6-0B3B-45B0-A677-7AA159B70AD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Business", "1-Business", "{624D9F5F-043D-43E0-A6E2-A94C2E7982F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Data", "2-Data", "{0CFB5708-8FA0-4898-BF7A-C42F007AA776}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Tests", "3-Tests", "{23F992AF-E123-471A-83E1-0AC25C2A8586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ofernandoavila.FoodDelivery.Business", "src\Ofernandoavila.FoodDelivery.Business\Ofernandoavila.FoodDelivery.Business.csproj", "{DCE6B8EC-EFE6-471B-ADFC-A815B202EDDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ofernandoavila.FoodDelivery.Data", "src\Ofernandoavila.FoodDelivery.Data\Ofernandoavila.FoodDelivery.Data.csproj", "{F7AE2F02-A6E8-42F2-8F8C-62261CE98E2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE68EC6-0B3B-45B0-A677-7AA159B70AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE68EC6-0B3B-45B0-A677-7AA159B70AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE68EC6-0B3B-45B0-A677-7AA159B70AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE68EC6-0B3B-45B0-A677-7AA159B70AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE6B8EC-EFE6-471B-ADFC-A815B202EDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE6B8EC-EFE6-471B-ADFC-A815B202EDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE6B8EC-EFE6-471B-ADFC-A815B202EDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE6B8EC-EFE6-471B-ADFC-A815B202EDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7AE2F02-A6E8-42F2-8F8C-62261CE98E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AE2F02-A6E8-42F2-8F8C-62261CE98E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AE2F02-A6E8-42F2-8F8C-62261CE98E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AE2F02-A6E8-42F2-8F8C-62261CE98E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9CE68EC6-0B3B-45B0-A677-7AA159B70AD6} = {0D71F9E0-DCA4-42A4-88F7-10C63FC694C9}
+		{DCE6B8EC-EFE6-471B-ADFC-A815B202EDDC} = {624D9F5F-043D-43E0-A6E2-A94C2E7982F5}
+		{F7AE2F02-A6E8-42F2-8F8C-62261CE98E2A} = {0CFB5708-8FA0-4898-BF7A-C42F007AA776}
+	EndGlobalSection
+EndGlobal
