@@ -1,0 +1,58 @@
+{
+	"info": {
+		"_postman_id": "ab87946d-89ef-4019-a59b-3f6a314a4665",
+		"name": "FoodDeliveryApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26426156"
+	},
+	"item": [
+		{
+			"name": "Auth",
+			"item": [
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"email\": \"fernandoavilajunior@gmail.com\",\r\n    \"password\": \"@Aa12345\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}{{apiVersion}}/login",
+							"host": [
+								"{{baseUrl}}{{apiVersion}}"
+							],
+							"path": [
+								"login"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Health Check",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/hc",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"hc"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
