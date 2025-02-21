@@ -1,8 +1,10 @@
-# 🍔 Food Delivery API
+<center><h1>🍔 Food Delivery API </h1></center>
 
-## 📌 Project Overview
+<center><h2>📌 Project Overview</h2></center>
 
-**Food Delivery API** is a platform designed to manage restaurants efficiently. Restaurant owners can register their businesses, add products, and track payments. Customers can create accounts to place orders, while owners maintain control over their sales and financial transactions. The system also supports managing multiple restaurants under a single account.
+<center>
+<b>Food Delivery API</b> is a platform designed to manage restaurants efficiently. Restaurant owners can register their businesses, add products, and track payments. Customers can create accounts to place orders, while owners maintain control over their sales and financial transactions. The system also supports managing multiple restaurants under a single account.
+</center>
 
 ---
 
