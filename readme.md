@@ -7,6 +7,12 @@
 
 </div>
 
+<div align="center">
+
+<h4>Made with ❤️ by <a href="https://linkedin.com/in/ofernandoavila">Fernando Avila</a> </h4>
+ 
+</div>
+
 <br>
 
 <h2 align="center">📌 Project Overview</h2>
@@ -50,13 +56,6 @@ dotnet run
 Ensure PostgreSQL is running and configured properly.
 
 ---
-
-## 📞 Contact
-
-📌 **Developer**: Fernando Avila  
-📧 **Email**: [fernandoavilajunior@gmail.com](mailto:fernandoavilajunior@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/ofernandoavila](https://linkedin.com/in/ofernandoavila)  
-
 <br>
 
 ## 📌 .NET Core Guide
