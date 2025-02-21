@@ -7,6 +7,10 @@ namespace Ofernandoavila.FoodDelivery.Business.Notification;
 public class Notificator : INotificator
 {
     private readonly List<Models.Settings.Notification> _notifications;
+    public Notificator()
+    {
+        _notifications = [];
+    }
     public List<Models.Settings.Notification> GetNotifications()
     {
         return _notifications;
