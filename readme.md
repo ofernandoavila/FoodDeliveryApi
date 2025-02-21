@@ -1,4 +1,13 @@
 <h1 align="center">🍔 Food Delivery API </h1>
+<div align="center">
+ 
+<a href="">![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)</a>
+<a href="">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)</a>
+<a href="">![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)</a>
+
+</div>
+
+<br>
 
 <h2 align="center">📌 Project Overview</h2>
 
@@ -6,7 +15,7 @@
 <b>Food Delivery API</b> is a platform designed to manage restaurants efficiently. Restaurant owners can register their businesses, add products, and track payments. Customers can create accounts to place orders, while owners maintain control over their sales and financial transactions. <br>The system also supports managing multiple restaurants under a single account.
 </p>
 
----
+<br>
 
 ## 🚀 Technologies Used
 
